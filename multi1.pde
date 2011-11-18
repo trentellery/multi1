@@ -1,7 +1,7 @@
 import org.gicentre.utils.multisketch.*;
 
 
-Bird[] b = new Bird[500];
+Bird[] b = new Bird[300];
 
 class Bird {
   float posX;
